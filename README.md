@@ -34,7 +34,7 @@ Supporting: [MathJax](tests/mathjax.md), [Chinese Characters](tests/测试.md), 
 
 ```shell
 # NPM
-$ npm i -g yarn global add git+https://github.com/akiratechhq/markserv.git
+$ npm i -g git+https://github.com/akiratechhq/markserv.git
 
 # Yarn
 $ yarn global add https://github.com/akiratechhq/markserv.git
